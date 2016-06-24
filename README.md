@@ -1,2 +1,4 @@
 # hello-world
-What just happened
+What just happened?
+The world is going mad.
+:-(
